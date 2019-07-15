@@ -17,6 +17,8 @@ def speak_to_grandma(hello)
     "I LOVE YOU TOO PUMPKIN!"
   elsif hello == "WHAT DID YOU EAT TODAY?"
     "NO, NOT SINCE 1938!"
+  elsif hello == "WHAT"
+  
   else 
   "HUH?! SPEAK UP, SONNY!"
   end
