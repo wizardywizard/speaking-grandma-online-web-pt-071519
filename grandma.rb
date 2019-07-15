@@ -15,6 +15,8 @@
 def speak_to_grandma(hello)
   if hello == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
+  elsif hello == "WHAT DID YOU EAT TODAY?"
+  
   else 
   "HUH?! SPEAK UP, SONNY!"
   end
