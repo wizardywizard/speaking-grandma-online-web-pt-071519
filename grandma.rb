@@ -18,7 +18,7 @@ def speak_to_grandma(hello)
   elsif hello == "WHAT DID YOU EAT TODAY?"
     "NO, NOT SINCE 1938!"
   elsif hello == "WHAT"
-  
+  "NO, NOT SINCE 1938!"
   else 
   "HUH?! SPEAK UP, SONNY!"
   end
